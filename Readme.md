@@ -1,0 +1,1 @@
+pinting values by using Map , filter, reduce function by using XMLHttpRequest.
